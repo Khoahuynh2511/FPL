@@ -1,0 +1,94 @@
+01
+Toán:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 6.2
+Điểm trung vị: 7.5
+
+Văn:
+Điểm cao nhất: 10
+Điểm thấp nhất: 3
+Điểm trung bình: 5.3
+Điểm trung vị: 4.5
+
+Anh:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 4.5
+Điểm trung vị: 3.5
+
+02
+Toán:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 6.454545454545454
+Điểm trung vị: 8
+
+Văn:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 5.909090909090909
+Điểm trung vị: 6
+
+Anh:
+Điểm cao nhất: 10
+Điểm thấp nhất: 1
+Điểm trung bình: 5.363636363636363
+Điểm trung vị: 6
+
+03
+Toán:
+Điểm cao nhất: 8
+Điểm thấp nhất: 1
+Điểm trung bình: 3.8
+Điểm trung vị: 3.0
+
+Văn:
+Điểm cao nhất: 10
+Điểm thấp nhất: 1
+Điểm trung bình: 5.8
+Điểm trung vị: 5.5
+
+Anh:
+Điểm cao nhất: 10
+Điểm thấp nhất: 1
+Điểm trung bình: 6.7
+Điểm trung vị: 7.0
+
+04
+Toán:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 3.909090909090909
+Điểm trung vị: 2
+
+Văn:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 5.7272727272727275
+Điểm trung vị: 7
+
+Anh:
+Điểm cao nhất: 8
+Điểm thấp nhất: 0
+Điểm trung bình: 3.272727272727273
+Điểm trung vị: 3
+
+05
+Toán:
+Điểm cao nhất: 10
+Điểm thấp nhất: 2
+Điểm trung bình: 6.125
+Điểm trung vị: 6.5
+
+Văn:
+Điểm cao nhất: 8
+Điểm thấp nhất: 2
+Điểm trung bình: 3.75
+Điểm trung vị: 3.0
+
+Anh:
+Điểm cao nhất: 10
+Điểm thấp nhất: 0
+Điểm trung bình: 6.375
+Điểm trung vị: 7.5

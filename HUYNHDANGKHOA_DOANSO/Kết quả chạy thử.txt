@@ -1,0 +1,7 @@
+Một số từ 1 đến 100 đã được tạo ra, hãy đoán xem đó là số nào.
+Hãy nhập số dự đoán của bạn: 4
+Số của bạn nhỏ quá.
+Hãy nhập số dự đoán của bạn: 9090
+Số của bạn lớn quá.
+Hãy nhập số dự đoán của bạn: 55
+Game over. Số bí mật là: 64

@@ -1,0 +1,11 @@
+Import thư viện pandas:
+Sử dụng pandas để đọc dữ liệu từ file CSV.
+
+Hàm read_scores_from_csv:
+Đọc file CSV và trích xuất điểm của các môn Toán, Văn, Anh vào các danh sách tương ứng.
+
+Hàm tính toán (calculate_max, calculate_min, calculate_average, calculate_median):
+Tính điểm cao nhất, thấp nhất, trung bình, và trung vị từ danh sách điểm.
+
+Hàm main():
+Gọi hàm đọc dữ liệu và các hàm tính toán, sau đó in kết quả ra màn hình.
